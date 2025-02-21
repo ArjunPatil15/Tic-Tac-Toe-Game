@@ -1,6 +1,6 @@
 Tic-Tac-Toe game developed using Java GUI with WindowBuilder on Eclipse! 🖥️✨
 <br>
-📌 Highlights:
+📌 Highlights:<br>
 ✅ Developed using WindowBuilder for intuitive UI design<br>
 ✅ Real-time win detection & scoreboard tracking<br>
 ✅ Smooth gameplay with interactive buttons<br>
