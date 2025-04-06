@@ -63,9 +63,10 @@ java TicTacToe
 
 ## 📸 Screenshots
 <br>
-![Screenshot 2025-02-10 115941](https://github.com/user-attachments/assets/09a9f2ac-6853-45f9-b58f-48dd1404451f)<br>
-![Screenshot 2025-02-10 115923](https://github.com/user-attachments/assets/54f74440-5316-4b88-8049-18f9917b8408)<br>
-![Screenshot 2025-02-10 120008](https://github.com/user-attachments/assets/948e3264-5952-4bfa-a717-634bf2fca25a)<br>
+![Screenshot 2025-02-10 115923](https://github.com/user-attachments/assets/4428ab9f-936e-44a8-aef3-0d2db2562639)<br>
+![Screenshot 2025-02-10 115941](https://github.com/user-attachments/assets/fe3cc553-27c9-4d42-99dd-8f8a8b691a30)<br>
+![Screenshot 2025-02-10 120008](https://github.com/user-attachments/assets/da453260-fc60-46c9-936c-825bd5c93dae)<br>
+
 
 ---
 
